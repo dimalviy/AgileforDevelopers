@@ -2,12 +2,11 @@ package org.cap.boot;
 
 public class MianClass {
 
-	public static void main(string[] args)
+	public static void main(String[] args)
 	{
-		 display();
-		 salesclass obj = new salesclass();
-		 obj.show();
-		 obj.greetings();
+		 System.out.println("fitst java project");
+	
+		
 		
 	}
 }
